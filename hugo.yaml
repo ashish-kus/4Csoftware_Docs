@@ -6,6 +6,8 @@ outputs:
   home:
     - HTML
     - JSON
+  section:
+    - HTML
 
 module:
   imports:
