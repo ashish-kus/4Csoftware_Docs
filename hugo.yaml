@@ -1,6 +1,6 @@
-baseURL: https://ashish-kus.github.io/docs/
+baseURL: https://ashish-kus.github.io/4Csoftware_Docs/
 languageCode: en-us
-title: My Site
+title: 4Csoftwar.com Docs
 
 disableKinds:
   - RSS
