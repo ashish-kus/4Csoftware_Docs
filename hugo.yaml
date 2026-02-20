@@ -1,6 +1,5 @@
 baseURL:
 languageCode: en-us
-# Hugo configuration file
 title: My Site
 
 outputs:
@@ -8,7 +7,6 @@ outputs:
     - HTML
     - JSON
 
-# import hextra as module
 module:
   imports:
     - path: github.com/imfing/hextra

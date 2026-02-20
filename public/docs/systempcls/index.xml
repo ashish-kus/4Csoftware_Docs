@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site – System PCLs</title>
-    <link>http://localhost:1313/docs/systempcls/</link>
+    <link>//localhost:1313/docs/systempcls/</link>
     <description>Recent content in System PCLs on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2026 14:07:01 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/systempcls/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/docs/systempcls/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>sys.abort_task</title>
-      <link>http://localhost:1313/docs/systempcls/sys-abort_task/</link>
+      <link>//localhost:1313/docs/systempcls/sys-abort_task/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-abort_task/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-abort_task/</guid>
       <description>
         
         
@@ -70,10 +70,10 @@
     
     <item>
       <title>sys.acc_mode</title>
-      <link>http://localhost:1313/docs/systempcls/sys-acc_mode/</link>
+      <link>//localhost:1313/docs/systempcls/sys-acc_mode/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-acc_mode/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-acc_mode/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@
     
     <item>
       <title>atodate</title>
-      <link>http://localhost:1313/docs/systempcls/atodate/</link>
+      <link>//localhost:1313/docs/systempcls/atodate/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/atodate/</guid>
+      <guid>//localhost:1313/docs/systempcls/atodate/</guid>
       <description>
         
         
@@ -160,10 +160,10 @@
     
     <item>
       <title>atof</title>
-      <link>http://localhost:1313/docs/systempcls/atof/</link>
+      <link>//localhost:1313/docs/systempcls/atof/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/atof/</guid>
+      <guid>//localhost:1313/docs/systempcls/atof/</guid>
       <description>
         
         
@@ -227,10 +227,10 @@
     
     <item>
       <title>atoi</title>
-      <link>http://localhost:1313/docs/systempcls/atoi/</link>
+      <link>//localhost:1313/docs/systempcls/atoi/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/atoi/</guid>
+      <guid>//localhost:1313/docs/systempcls/atoi/</guid>
       <description>
         
         
@@ -294,10 +294,10 @@
     
     <item>
       <title>atotime</title>
-      <link>http://localhost:1313/docs/systempcls/atotime/</link>
+      <link>//localhost:1313/docs/systempcls/atotime/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/atotime/</guid>
+      <guid>//localhost:1313/docs/systempcls/atotime/</guid>
       <description>
         
         
@@ -342,10 +342,10 @@
     
     <item>
       <title>sys.auth_userpwd</title>
-      <link>http://localhost:1313/docs/systempcls/sys-auth_userpwd/</link>
+      <link>//localhost:1313/docs/systempcls/sys-auth_userpwd/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-auth_userpwd/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-auth_userpwd/</guid>
       <description>
         
         
@@ -393,10 +393,10 @@
     
     <item>
       <title>beep</title>
-      <link>http://localhost:1313/docs/systempcls/beep/</link>
+      <link>//localhost:1313/docs/systempcls/beep/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/beep/</guid>
+      <guid>//localhost:1313/docs/systempcls/beep/</guid>
       <description>
         
         
@@ -453,10 +453,10 @@
     
     <item>
       <title>sys.begin</title>
-      <link>http://localhost:1313/docs/systempcls/sys-begin/</link>
+      <link>//localhost:1313/docs/systempcls/sys-begin/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-begin/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-begin/</guid>
       <description>
         
         
@@ -558,10 +558,10 @@ if (sys.commit(&amp;#34;T1&amp;#34;) &amp;lt; 0) {
     
     <item>
       <title>sys.browse_file</title>
-      <link>http://localhost:1313/docs/systempcls/sys-browse_file/</link>
+      <link>//localhost:1313/docs/systempcls/sys-browse_file/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-browse_file/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-browse_file/</guid>
       <description>
         
         
@@ -619,10 +619,10 @@ There should be a more automatic way of enabling browsing.&lt;/p&gt;
     
     <item>
       <title>sys.build_file</title>
-      <link>http://localhost:1313/docs/systempcls/sys-build_file/</link>
+      <link>//localhost:1313/docs/systempcls/sys-build_file/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-build_file/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-build_file/</guid>
       <description>
         
         
@@ -669,10 +669,10 @@ There should be a more automatic way of enabling browsing.&lt;/p&gt;
     
     <item>
       <title>sys.build_prlist</title>
-      <link>http://localhost:1313/docs/systempcls/sys-build_prlist/</link>
+      <link>//localhost:1313/docs/systempcls/sys-build_prlist/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-build_prlist/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-build_prlist/</guid>
       <description>
         
         
@@ -728,10 +728,10 @@ There should be a more automatic way of enabling browsing.&lt;/p&gt;
     
     <item>
       <title>sys.build_prog</title>
-      <link>http://localhost:1313/docs/systempcls/sys-build_prog/</link>
+      <link>//localhost:1313/docs/systempcls/sys-build_prog/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-build_prog/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-build_prog/</guid>
       <description>
         
         
@@ -778,10 +778,10 @@ There should be a more automatic way of enabling browsing.&lt;/p&gt;
     
     <item>
       <title>sys.build_stlist</title>
-      <link>http://localhost:1313/docs/systempcls/sys-build_stlist/</link>
+      <link>//localhost:1313/docs/systempcls/sys-build_stlist/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-build_stlist/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-build_stlist/</guid>
       <description>
         
         
@@ -839,10 +839,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.calc</title>
-      <link>http://localhost:1313/docs/systempcls/sys-calc/</link>
+      <link>//localhost:1313/docs/systempcls/sys-calc/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-calc/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-calc/</guid>
       <description>
         
         
@@ -889,10 +889,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbc_close</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbc_close/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbc_close/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbc_close/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbc_close/</guid>
       <description>
         
         
@@ -940,10 +940,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbc_end</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbc_end/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbc_end/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbc_end/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbc_end/</guid>
       <description>
         
         
@@ -986,10 +986,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbc_open</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbc_open/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbc_open/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbc_open/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbc_open/</guid>
       <description>
         
         
@@ -1055,10 +1055,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbc_senddata</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbc_senddata/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbc_senddata/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbc_senddata/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbc_senddata/</guid>
       <description>
         
         
@@ -1103,10 +1103,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbc_sendtext</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbc_sendtext/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbc_sendtext/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbc_sendtext/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbc_sendtext/</guid>
       <description>
         
         
@@ -1151,10 +1151,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_exit</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_exit/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_exit/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_exit/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_exit/</guid>
       <description>
         
         
@@ -1196,10 +1196,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_getappname</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_getappname/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_getappname/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_getappname/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_getappname/</guid>
       <description>
         
         
@@ -1245,10 +1245,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_getcount</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_getcount/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_getcount/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_getcount/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_getcount/</guid>
       <description>
         
         
@@ -1298,10 +1298,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_getdata</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_getdata/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_getdata/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_getdata/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_getdata/</guid>
       <description>
         
         
@@ -1336,10 +1336,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_getipaddr</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_getipaddr/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_getipaddr/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_getipaddr/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_getipaddr/</guid>
       <description>
         
         
@@ -1385,10 +1385,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_getnflds</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_getnflds/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_getnflds/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_getnflds/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_getnflds/</guid>
       <description>
         
         
@@ -1438,10 +1438,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_getport</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_getport/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_getport/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_getport/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_getport/</guid>
       <description>
         
         
@@ -1479,10 +1479,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_gettext</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_gettext/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_gettext/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_gettext/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_gettext/</guid>
       <description>
         
         
@@ -1516,10 +1516,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cbp_gettype</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cbp_gettype/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cbp_gettype/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cbp_gettype/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cbp_gettype/</guid>
       <description>
         
         
@@ -1563,10 +1563,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cb_select</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cb_select/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cb_select/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cb_select/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cb_select/</guid>
       <description>
         
         
@@ -1621,10 +1621,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.char_val</title>
-      <link>http://localhost:1313/docs/systempcls/sys-char_val/</link>
+      <link>//localhost:1313/docs/systempcls/sys-char_val/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-char_val/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-char_val/</guid>
       <description>
         
         
@@ -1668,10 +1668,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.choose_color</title>
-      <link>http://localhost:1313/docs/systempcls/sys-choose_color/</link>
+      <link>//localhost:1313/docs/systempcls/sys-choose_color/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-choose_color/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-choose_color/</guid>
       <description>
         
         
@@ -1715,10 +1715,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cl_browse</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cl_browse/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cl_browse/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cl_browse/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cl_browse/</guid>
       <description>
         
         
@@ -1789,10 +1789,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cl_open</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cl_open/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cl_open/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cl_open/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cl_open/</guid>
       <description>
         
         
@@ -1864,10 +1864,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.close_file</title>
-      <link>http://localhost:1313/docs/systempcls/sys-close_file/</link>
+      <link>//localhost:1313/docs/systempcls/sys-close_file/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-close_file/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-close_file/</guid>
       <description>
         
         
@@ -1916,10 +1916,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.close_ldata</title>
-      <link>http://localhost:1313/docs/systempcls/sys-close_ldata/</link>
+      <link>//localhost:1313/docs/systempcls/sys-close_ldata/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-close_ldata/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-close_ldata/</guid>
       <description>
         
         
@@ -1964,10 +1964,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.close_log</title>
-      <link>http://localhost:1313/docs/systempcls/sys-close_log/</link>
+      <link>//localhost:1313/docs/systempcls/sys-close_log/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-close_log/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-close_log/</guid>
       <description>
         
         
@@ -2012,10 +2012,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.clr_break</title>
-      <link>http://localhost:1313/docs/systempcls/sys-clr_break/</link>
+      <link>//localhost:1313/docs/systempcls/sys-clr_break/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-clr_break/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-clr_break/</guid>
       <description>
         
         
@@ -2066,10 +2066,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cl_restart</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cl_restart/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cl_restart/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cl_restart/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cl_restart/</guid>
       <description>
         
         
@@ -2113,10 +2113,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cmp_data</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cmp_data/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cmp_data/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cmp_data/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cmp_data/</guid>
       <description>
         
         
@@ -2223,10 +2223,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cmp_file</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cmp_file/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cmp_file/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cmp_file/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cmp_file/</guid>
       <description>
         
         
@@ -2339,10 +2339,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.commit</title>
-      <link>http://localhost:1313/docs/systempcls/sys-commit/</link>
+      <link>//localhost:1313/docs/systempcls/sys-commit/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-commit/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-commit/</guid>
       <description>
         
         
@@ -2387,10 +2387,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.conn_close</title>
-      <link>http://localhost:1313/docs/systempcls/sys-conn_close/</link>
+      <link>//localhost:1313/docs/systempcls/sys-conn_close/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-conn_close/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-conn_close/</guid>
       <description>
         
         
@@ -2439,10 +2439,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.conv_file</title>
-      <link>http://localhost:1313/docs/systempcls/sys-conv_file/</link>
+      <link>//localhost:1313/docs/systempcls/sys-conv_file/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-conv_file/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-conv_file/</guid>
       <description>
         
         
@@ -2505,10 +2505,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.copy_array</title>
-      <link>http://localhost:1313/docs/systempcls/sys-copy_array/</link>
+      <link>//localhost:1313/docs/systempcls/sys-copy_array/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-copy_array/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-copy_array/</guid>
       <description>
         
         
@@ -2553,10 +2553,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.copy_data</title>
-      <link>http://localhost:1313/docs/systempcls/sys-copy_data/</link>
+      <link>//localhost:1313/docs/systempcls/sys-copy_data/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-copy_data/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-copy_data/</guid>
       <description>
         
         
@@ -2627,10 +2627,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.copy_fields</title>
-      <link>http://localhost:1313/docs/systempcls/sys-copy_fields/</link>
+      <link>//localhost:1313/docs/systempcls/sys-copy_fields/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-copy_fields/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-copy_fields/</guid>
       <description>
         
         
@@ -2680,10 +2680,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.copy_file</title>
-      <link>http://localhost:1313/docs/systempcls/sys-copy_file/</link>
+      <link>//localhost:1313/docs/systempcls/sys-copy_file/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-copy_file/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-copy_file/</guid>
       <description>
         
         
@@ -2732,10 +2732,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.copy_pkey</title>
-      <link>http://localhost:1313/docs/systempcls/sys-copy_pkey/</link>
+      <link>//localhost:1313/docs/systempcls/sys-copy_pkey/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-copy_pkey/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-copy_pkey/</guid>
       <description>
         
         
@@ -2784,10 +2784,10 @@ Since this is meant for internal use, the file definition may change when needed
     
     <item>
       <title>sys.cp_toutf8</title>
-      <link>http://localhost:1313/docs/systempcls/sys-cp_toutf8/</link>
+      <link>//localhost:1313/docs/systempcls/sys-cp_toutf8/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/systempcls/sys-cp_toutf8/</guid>
+      <guid>//localhost:1313/docs/systempcls/sys-cp_toutf8/</guid>
       <description>
         
         

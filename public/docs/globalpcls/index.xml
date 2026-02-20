@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site – Global PCLs</title>
-    <link>http://localhost:1313/docs/globalpcls/</link>
+    <link>//localhost:1313/docs/globalpcls/</link>
     <description>Recent content in Global PCLs on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2026 14:07:01 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/globalpcls/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/docs/globalpcls/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>sys.app_trace</title>
-      <link>http://localhost:1313/docs/globalpcls/sys-app_trace/</link>
+      <link>//localhost:1313/docs/globalpcls/sys-app_trace/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/globalpcls/sys-app_trace/</guid>
+      <guid>//localhost:1313/docs/globalpcls/sys-app_trace/</guid>
       <description>
         
         
@@ -68,10 +68,10 @@
     
     <item>
       <title>sys.app_log</title>
-      <link>http://localhost:1313/docs/globalpcls/sys-app_log/</link>
+      <link>//localhost:1313/docs/globalpcls/sys-app_log/</link>
       <pubDate>Thu, 19 Feb 2026 14:07:01 +0530</pubDate>
       
-      <guid>http://localhost:1313/docs/globalpcls/sys-app_log/</guid>
+      <guid>//localhost:1313/docs/globalpcls/sys-app_log/</guid>
       <description>
         
         
