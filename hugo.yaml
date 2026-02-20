@@ -59,3 +59,7 @@ params:
   editURL:
     enable: true
     base: "https://github.com/ashish-kus/4Csoftware_Docs/"
+
+  author:
+    name: "Ashish Kushwaha"
+    email: "ashish.kus2408@gmail.com"
