@@ -1,0 +1,13 @@
+{{- $pages := .Site.RegularPages -}}
+[
+{{- range $index, $page := $pages -}}
+  {{- if and (not $page.Draft) (ne $page.Kind "taxonomy") (ne $page.Kind "term") -}}
+    {{- if $index }},{{ end -}}
+    {
+      "title": {{ $page.Title | jsonify }},
+      "permalink": {{ $page.Permalink | jsonify }},
+      "content": {{ $page.Plain | jsonify }}
+    }
+  {{- end -}}
+{{- end -}}
+]
