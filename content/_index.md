@@ -4,11 +4,24 @@ toc: false
 weight: 1
 ---
 
-## Why this Documentation
+## Welcome to the **4C Software documentation**
 
-Every technology deserves clear and well-structured documentation. The original 4C manuals contain valuable information, but they can feel scattered, outdated, and difficult to navigate. This guide is an attempt to organize everything into one clean, streamlined knowledge base for the 4C Software Platform.
+This site contains the full reference documentation for the 4C Software system,
+including all built-in functions, system calls, and PCL routines available to developers.
 
-The goal is simple: make learning and working with 4C easier. Instead of jumping between old manuals and loosely connected sections, this documentation focuses on better structure, clearer explanations, and easier search and navigation — so you can quickly find what you need and understand how things fit together.## Explore
+Use the sidebar to browse through the available functions, or use the search bar
+to quickly find what you're looking for.
+
+## What's Here
+
+- **System PCLs** — Core system functions and their usage
+- **Arguments & Returns** — Detailed parameter and return value descriptions
+- **Examples** — Code examples for each function
+
+## Getting Started
+
+Browse the docs using the left sidebar, or start typing in the search bar at the top.
+Each function page covers its purpose, usage, arguments, return values, and examples.
 
 {{< cards >}}
 {{< card link="docs" title="Docs" icon="book-open" >}}
