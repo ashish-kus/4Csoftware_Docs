@@ -2,6 +2,9 @@ baseURL:
 languageCode: en-us
 title: My Site
 
+disableKinds:
+  - RSS
+
 author:
   name: "Ashish Kushwaha"
   email: "ashish.kus2408@gmail.com"
