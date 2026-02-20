@@ -2,6 +2,10 @@ baseURL:
 languageCode: en-us
 title: My Site
 
+author:
+  name: "Ashish Kushwaha"
+  email: "ashish.kus2408@gmail.com"
+
 outputs:
   home:
     - HTML
@@ -14,12 +18,10 @@ module:
     - path: github.com/imfing/hextra
 
 markup:
-  # allow raw html
   goldmark:
     renderer:
       unsafe: true
 
-  # enable hextra syntax highlight
   highlight:
     noClasses: false
 
@@ -61,7 +63,3 @@ params:
   editURL:
     enable: true
     base: "https://github.com/ashish-kus/4Csoftware_Docs/"
-
-  author:
-    name: "Ashish Kushwaha"
-    email: "ashish.kus2408@gmail.com"
